@@ -2,6 +2,20 @@
 
 # 🎙️ Twee
 
+### An Intelligent Emotion-Aware Text-to-Speech Engine
+
+A novel Text-to-Speech (TTS) framework that integrates Natural Language Processing, Artificial Intelligence, and Digital Signal Processing to generate expressive, context-aware, and human-like speech.
+
+![Research](https://img.shields.io/badge/Type-Research%20Project-blue)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-green)
+![NLP](https://img.shields.io/badge/Natural%20Language-Processing-orange)
+![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-purple)
+![Speech](https://img.shields.io/badge/Speech-Synthesis-red)
+
+</div>
+
+---
+
 <img src="banner.png" width="250px">
 
 *Example Snippet*
@@ -16,20 +30,6 @@ t.say("do you like this")
 t.intelligence=0
 t.say("do you like this")
 ```
-
-### An Intelligent Emotion-Aware Text-to-Speech Engine
-
-A novel Text-to-Speech (TTS) framework that integrates Natural Language Processing, Artificial Intelligence, and Digital Signal Processing to generate expressive, context-aware, and human-like speech.
-
-![Research](https://img.shields.io/badge/Type-Research%20Project-blue)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-green)
-![NLP](https://img.shields.io/badge/Natural%20Language-Processing-orange)
-![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-purple)
-![Speech](https://img.shields.io/badge/Speech-Synthesis-red)
-
-</div>
-
----
 
 # 📖 Overview
 
